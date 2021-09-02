@@ -1,6 +1,9 @@
 # NewsApp
 React / AI / UI
 
+ link: https://ai-news-app-react-lg.netlify.app
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
