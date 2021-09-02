@@ -1,8 +1,7 @@
 # NewsApp
 React / AI / UI
 
- link: https://ai-news-app-react-lg.netlify.app
-
+ link: https://lorenagutierrez-newsapp.netlify.app
 
 # Getting Started with Create React App
 
