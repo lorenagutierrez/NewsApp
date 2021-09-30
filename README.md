@@ -1,5 +1,6 @@
 # NewsApp
-React / AI / UI
+React / AI
+Voice Assistant App 
 
  link: https://lorenagutierrez-newsapp.netlify.app
 
