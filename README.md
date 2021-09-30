@@ -2,7 +2,6 @@
 React / AI
 Voice Assistant App 
 
- link: https://lorenagutierrez-newsapp.netlify.app
 
 # Getting Started with Create React App
 
